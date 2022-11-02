@@ -1,0 +1,11 @@
+.select {
+    padding-inline: .75rem;
+    padding-block: .5rem;
+    padding-inline-end: 2rem;
+    border-radius: .25rem;
+    font: var(--button-button);
+    appearance: none;
+    background-image: url(../images/chevron.svg);
+    background-repeat: no-repeat;
+    background-position: right .5rem center;
+}
